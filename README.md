@@ -87,7 +87,7 @@ Give a star if this project made you smile!
 
 ## License
 
-MIT © [Meheduzzaman](https://github.com/meheduz)
+MIT
 
 ## Links
 
