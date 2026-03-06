@@ -1,0 +1,39 @@
+{
+  "name": "@meheduz/dev-jokes-cli",
+  "version": "2.0.0",
+  "description": "😂 Get random programming jokes in your terminal - instant mood booster for developers!",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "node index.js",
+    "prepublishOnly": "node index.js"
+  },
+  "keywords": [
+    "jokes",
+    "programming",
+    "cli",
+    "funny",
+    "developer",
+    "memes",
+    "humor",
+    "terminal",
+    "dev-tools",
+    "entertainment"
+  ],
+  "author": "Meheduzzaman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meheduz/dev-jokes-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meheduz/dev-jokes-cli/issues"
+  },
+  "homepage": "https://github.com/meheduz/dev-jokes-cli#readme",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
