@@ -1,7 +1,7 @@
 {
   "name": "@meheduz/dev-jokes-cli",
   "version": "2.0.0",
-  "description": "😂 Get random programming jokes in your terminal - instant mood booster for developers!",
+  "description": "Get random programming jokes in your terminal - instant mood booster for developers",
   "main": "index.js",
   "bin": "./index.js",
   "scripts": {
